@@ -3,7 +3,7 @@
 ## I'm a software developer with a background in hospitality management.
 
 
-# Knowledge, Skills, and Abilities
+### Knowledge, Skills, and Abilities
 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
