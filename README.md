@@ -1,7 +1,7 @@
 # Hello World! 👋
 
 ## I'm a software developer with a background in hospitality management.
-
+- Currently working as a Teaching Assistant with [Coding Dojo](https://www.codingdojo.com/?utm_source=adwords&utm_campaign=nationwide_branding_softdev&utm_term=cd_ex&utm_content=603625498764&gclid=CjwKCAjwl6OiBhA2EiwAuUwWZcXRfPj_nRl0t-kvNEG5xXAD3Hw9_TNpGeQewgVKJmyNIb80iUq_ARoCVaAQAvD_BwE) to guide new students in the world of code
 
 ### Knowledge, Skills, and Abilities
 
