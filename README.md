@@ -21,7 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-![Test](https://img.shields.io/badge/-Axios-000000?style=flat-square&logo=axios&logo=white)
+![Test](https://img.shields.io/badge/-Sass-ff69b4?style=flat-square&logo=sass&logoColor=white)
 
 ![Programming GIF](https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
