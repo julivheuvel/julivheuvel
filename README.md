@@ -21,7 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-ff69b4?style=flat-square&logo=sass&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-informational?style=flat-square&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-informational?style=flat-square&logo=buymeacoffee&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-success?style=flat-square&logo=springboot&logoColor=white)
 
 ![Programming GIF](https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
