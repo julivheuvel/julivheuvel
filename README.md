@@ -1,7 +1,7 @@
 # Hello World! 👋
 
-## I'm a software developer with a background in hospitality management.
-- Currently working as a Teaching Assistant with [Coding Dojo](https://www.codingdojo.com/) to guide new students in the world of code. You can find yours truly [here](https://www.codingdojo.com/meet-the-team)
+## I'm a software developer with a background in business management.
+- Previously worked as a Software Engineering TA with [Coding Dojo](https://www.codingdojo.com/) and Franchise Consultant with Jimmy John's corporate setting metrics and analyzing data trends for multimillion dollar stores.
 
 ### Knowledge, Skills, and Abilities
 
@@ -38,7 +38,6 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=julivheuvel)](https://git.io/streak-stats)
 
 <!--
 **julivheuvel/julivheuvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
